@@ -54,3 +54,26 @@ target/
 
 # OS
 .DS_Store
+
+# Maven
+target/
+
+# Java
+*.class
+
+# IDE
+.settings/
+.classpath
+.project
+.sts4-cache/
+
+# Logs
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
